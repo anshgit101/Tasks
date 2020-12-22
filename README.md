@@ -6,31 +6,18 @@
 ```
 |_Tasks
     |_ Task1
-    	|_Summary.pdf
-               
+    	|_Summary.pdf               
     |_ Task2
-
     	|_ code
-
     		|_ ISRO.ipynb
-
     		|_ ISRPipynb.pdf
-
     	|_ Analysis_Report.pdf
-
     	|_ ISRO.json
-
     |_ Task3
-
     	|_ a
-
     		|_ code
-
     			|_Task3a.ipynb
-
     		|_ MongoDb-Collection
-
-
     	|_ b
                
 ```
