@@ -19,7 +19,9 @@
     			|_Task3a.ipynb
     		|_ MongoDb-Collection
     	|_ b
+            |_ code
+            |_script_ansh.py
                
 ```
 
-- Final deadline is <strong> 11:55 pm 26 August 2020 </strong>.
+- Link for data for task 3: https://drive.google.com/drive/folders/1VEzIIyz_Mt78eWFmKQs88BqScx-sKzbz?usp=sharing
